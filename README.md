@@ -1,4 +1,4 @@
-resolvus client
+resolvus server
 ============
 
 Welcome to resolvus.
